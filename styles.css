@@ -1,0 +1,22 @@
+*{
+    text-transform: capitalize;
+}
+.container span{
+    text-decoration: underline;
+}
+.calc{
+    width: 600px;
+    overflow: hidden;
+    padding: 20px;
+}
+.wrapper{
+    text-align: center;
+}
+.wrapper2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+#sum-el{
+    text-align: center;
+}
